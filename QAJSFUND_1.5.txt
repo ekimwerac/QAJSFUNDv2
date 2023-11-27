@@ -1,0 +1,185 @@
+
+
+                       COURSEWARE ASSET MANAGEMENT SYSTEM
+
+   *--------------------------------------------------------------------------+
+   |                                                                          |
+   |                        COURSEWARE BUILD LIST                             |
+   |                             (DELEGATE)                                   |
+   |                                                                          |
+   |                                                                          |
+   +--------------------------------------------------------------------------*
+
+
+   Date Generated: 24/10/2022
+
+
+   +--------------------+
+   | COURSE INFORMATION |
+   +--------------------+-----------------------------------------------------+
+   |                                                                          |
+      Course Title     :  Web Development Fundamentals - JavaScript
+
+      Course Code      :  QAJSFUND
+      Course Version   :  1.5
+      Course Author    :  Ed Wright
+      Course Company   :  QA Ltd
+      First Run Date   :  
+      Setup Image      :  
+      Major Version    :  1.0
+      Course Rework    :  0-25%
+   |                                                                          |
+   +--------------------------------------------------------------------------/
+
+
+   +====================+
+   | BINDER 1           |
+   +====================+=====================================================+
+   |                                                                          |
+      Binding          :  DIGITAL - NOT PRINTED
+
+
+      +--------------------+
+      |  BOOK 1            |
+      +--------------------+-----------------------------------------------+
+      |                                                                    |
+         Book Type        :  Delegate Guide
+
+         Size             :  A4 Portrait
+         Divider          :  None
+         Render in        :  Colour
+         Present as       :  Double Sided
+         Paper            :  Paper 100G
+         Paper Colour     :  White
+         Copyright Page   :  Include
+
+
+         Additional Print Instructions
+         -----------------------------
+         
+
+
+         Files
+         -----
+         DG00a_CourseIntroduction.pptx
+         DG00b_JavaScriptIntroduction.pptx
+         DG01_Types.pptx
+         DG02_Operators.pptx
+         DG03_FlowOfControl.pptx
+         DG04_ErrorHandling.pptx
+         DG05_Arrays.pptx
+         DG06_Functions.pptx
+         DG07_Collections.pptx
+         DG08_Objects.pptx
+         DG09_JavaScriptAndDOM.pptx
+         DG10_JavaScriptManipulatingStyle.pptx
+         DG11_JavaScriptEvents.pptx
+         DG12_JavaScriptAndForms.pptx
+         DG13_JavaScriptModules.pptx
+         DG14_ObjectOrientedJavaScript.pptx
+         DG15_AsynchronousJavaScript.pptx
+         DG16_Conclusion.pptx
+
+
+      |                                                                    |
+      +------------------------END OF BOOK 1-------------------------------/
+
+   |                                                                          |
+   +==========================END OF BINDER 1=================================/
+
+   +====================+
+   | BINDER 2           |
+   +====================+=====================================================+
+   |                                                                          |
+      Binding          :  DIGITAL - NOT PRINTED
+
+
+      +--------------------+
+      |  BOOK 1            |
+      +--------------------+-----------------------------------------------+
+      |                                                                    |
+         Book Type        :  Excercise Guide 1
+
+         Size             :  A4 Portrait
+         Divider          :  None
+         Render in        :  Colour
+         Present as       :  Double Sided
+         Paper            :  Paper 100G
+         Paper Colour     :  White
+         Copyright Page   :  Include
+
+
+         Additional Print Instructions
+         -----------------------------
+         
+
+
+         Files
+         -----
+         EG01_JavaScriptFundamentalsQuickLabs.pdf
+
+
+      |                                                                    |
+      +------------------------END OF BOOK 1-------------------------------/
+
+      +--------------------+
+      |  BOOK 2            |
+      +--------------------+-----------------------------------------------+
+      |                                                                    |
+         Book Type        :  Excercise Guide 2
+
+         Size             :  A4 Portrait
+         Divider          :  None
+         Render in        :  Colour
+         Present as       :  Double Sided
+         Paper            :  Paper 100G
+         Paper Colour     :  White
+         Copyright Page   :  Include
+
+
+         Additional Print Instructions
+         -----------------------------
+         
+
+
+         Files
+         -----
+         EG02_JavaScriptHackathonGuide.pdf
+
+
+      |                                                                    |
+      +------------------------END OF BOOK 2-------------------------------/
+
+   |                                                                          |
+   +==========================END OF BINDER 2=================================/
+
+   +--------------------+
+   |  ADDITIONAL ITEMS  |
+   +--------------------+-----------------------------------------------------+
+   |                                                                          |
+      Stationary
+      ==========
+      1 x Delegate pack (Pad, Pen and Namecard) - A5
+         (1 per delegate)
+
+      Pick and Pack
+      =============
+
+
+      Additional Printed Items
+      ========================
+
+   |                                                                          |
+   +--------------------------------------------------------------------------/
+
+
+   +--------------------------+
+   |  ADDITIONAL INFORMATION  |
+   +--------------------------+-----------------------------------------------+
+   |                                                                          |
+
+   |                                                                          |
+   +--------------------------------------------------------------------------/
+
+
+QA Ltd 2023
